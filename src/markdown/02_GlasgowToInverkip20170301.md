@@ -1,3 +1,4 @@
+
 # Glasgow to Inverkip (Wednesday 1st March 2017) #
 
 My train inches out of Glasgow Central station and across the Clyde. It is golden hour, that time when the sun is near the horizon, beloved of photographers because of its richness. Though there are some clouds, the day is as bright and welcoming as all the interactions that I have had with people since rolling off the overnight sleeper coach at Buchanan St bus station. The train gathers speed through an industrial area, diving into a cutting. We emerge to local authority housing on one side with industry framed by distant mountains on the other.
