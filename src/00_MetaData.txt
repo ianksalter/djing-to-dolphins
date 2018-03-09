@@ -1,5 +1,16 @@
 % DJing to Dolphins
-% Ian K Salter
 
-
+---
+title: 
+- type: main
+  text: DJing to Dolphins
+- type: subtitle
+  text: Adventures with Kite Part 1
+creator: 
+- role: author
+  text: Ian K Salter
+publisher: Published by Ian K Salter
+rights: © 2017, 2018 Ian K Salter (CC BY NC 4.0)
+language: en-UK
+---
 

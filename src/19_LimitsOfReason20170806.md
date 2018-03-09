@@ -5,37 +5,38 @@ At 2 am I wake to take over from Maxime who is apologetic that she hasn’t foll
 
 I make myself comfortable on the doggy step and remember my missing proof from the night before. I doubt I will think of all of it in a single watch. Tonight I will focus on reason and mathematics.
 
-I suppose my story starts with [Euclid](https://en.wikipedia.org/wiki/Euclid) and that cussed geometry. In [The Elements](https://en.wikipedia.org/wiki/Euclid%27s_Elements), Euclid sets out a number of rules or axioms (he called them definitions, common notions and postulates). All but one of these rules are very simple and self evident. The fifth or parallel postulate is not. It essentially states that two parallel lines will never meet.
+I suppose my story starts with [Euclid](https://en.wikipedia.org/wiki/Euclid) and that cussed geometry. In [The Elements](https://en.wikipedia.org/wiki/Euclid%27s_Elements), Euclid sets out a number of rules or axioms (he called them definitions, common notions and postulates). All but one of these rules are very simple and self evident. The fifth or [parallel postulate](https://en.wikipedia.org/wiki/Parallel_postulate) is not. It essentially states that two parallel lines will never meet.
 
-![Euclids 5 Postulates](../images/euclids5postulates.png "Euclids Parallel Postulates")
+![**Parallel Postulate Graphically**](../images/ParallelPostulateGraphically.png "Parallel Postulate Graphically") 
 
-![Parallel Postulate Graphically](../images/parallel_postulate.png "Parallel Postulate Graphically")
+This postulate was so different (see the list below), that for two millennia mathematicians tried to prove that it could be derived from the other rules.
 
-This postulate was so different (see the list of above), that for two millennia mathematicians tried to prove that it could be derived from the other rules. This however seemed a small and insignificant mathematical problem. So that in the 16th century Galileo Galilei felt that:
+![**Euclids 5 Postulates**](../images/Euclids5Postulates.png "Euclids Parallel Postulates") 
 
-“Mathematics is the language in which God has written the universe.”
+This however seemed a small and insignificant mathematical problem. So that in the 16th century [Galileo Galilei](https://en.wikipedia.org/wiki/Galileo_Galilei) felt that:
 
-and by the 19th century Carl Friedrich Gauss, the leading mathematician of the times, was happy to exclaim that:
+> “Mathematics is the language in which God has written the universe.”
 
-“Mathematics is the queen of the sciences….”
+and by the 19th century [Carl Friedrich Gauss](https://en.wikipedia.org/wiki/Carl_Friedrich_Gauss), the leading mathematician of the times, was happy to exclaim that:
 
-Yet as the 19th century drew on, events would happen that would ultimately challenge this view. Mathematicians Janos Bolyai and Nikolai Lobachevsky would develop hyperbolic-geometry and Bernhard Riemann, elliptical geometry, both of these systems would deny the parallel postulate and later become known as Non-Euclidean geometries.
+> “Mathematics is the queen of the sciences….”
+
+Yet as the 19th century drew on, events would happen that would ultimately challenge this view. Mathematicians [Janos Bolyai](https://en.wikipedia.org/wiki/J%C3%A1nos_Bolyai) and [Nikolai Lobachevsky](https://en.wikipedia.org/wiki/Nikolai_Lobachevsky) would develop hyperbolic-geometry and [Bernhard Riemann](https://en.wikipedia.org/wiki/Bernhard_Riemann), [elliptical geometry](https://en.wikipedia.org/wiki/Elliptic_geometry), both of these systems would deny the parallel postulate and later become known as [Non-Euclidean geometries](https://en.wikipedia.org/wiki/Non-Euclidean_geometry).
 
 Riemann’s spherical geometry, a special case of elliptical geometry, can be seen as a model of our own planet, lines of longitude that are parallel at the equator meet at the poles and the angles of larger triangles do not add up to 180 degrees.
 
-700px-triangles_28spherical_geometry29
+![**Earth Spherical Geometry**](../images/EarthSphericalGeometry.png "Earth Spherical Geometry") 
 
 As I stare down into the cabin from the doggie step and see our chart table, I muse that sailors could probably have told mathematicians all this, for on our charts we have always measured distance, using those iconic dividers, from the latitude scale on the side of charts, where one minute (a 60th of a degree) is always equal to one nautical mile. We never use the longitude scale at the bottom of charts, as the minutes get smaller the further north you go from the equator and disappear into nothing at the poles.
 
 The advent of these new geometries raised concerns and led mathematicians to seek two properties for any sets of rules:
 
-Consistency – If we reason from the rules, can we be sure that we can avoid a contradiction.
-Completeness – Do the rules uniquely describe a situation so that any statement can be proven to be either true or false.
+* **Consistency** – If we reason from the rules, can we be sure that we can avoid a contradiction.
+* **Completeness** – Do the rules uniquely describe a situation so that any statement can be proven to be either true or false.
+
 Consistency is vital, because, in a logical system, once one can prove a contradiction one can prove anything, and therefore, the rules become useless as description of anything. Euclid’s rules without the parallel postulate, are definitely not complete as they admit different interpretations as illustrated in the diagram below. One cannot prove or disprove that the angles of a triangle always add up to 180 degrees as it is true in 1 but false in 2 & 3.
 
-700px-euclidian_and_non_euclidian_geometry
-
-1 Euclidean geometry, 2 Elliptical geometry, 3. Hyperbolic geometry
+![**1 Euclidean Geometry, 2 Elliptical Geometry, 3. Hyperbolic Geometry**](../images/ThreeGeometries.png "Three Geometries") 
 
 As the earlier statement of Galileo indicates, mathematicians had always assumed the completeness of mathematics, that mathematics was discovering the language of the universe, a view that was to become known as the mathematical philosophy of Platonism. With the advent of non-euclidean geometries, the issue of completeness, and even more importantly consistency, began to call Platonism into question.
 
