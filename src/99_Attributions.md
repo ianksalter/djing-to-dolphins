@@ -2,10 +2,9 @@
 # Image Attributions #
 
 Some of the images in this book have built upon the work of others. The sources and 
-creators of these images are given below by chater.
+creators of these images are given below by chapter.
 
-
-### Chapter: Limits of Reason ###
+## Chapter: Limits of Reason ##
 
 * **Parallel Postulate Graphically**  modified image from [Wikipedia](https://en.wikipedia.org/wiki/Parallel_postulate#/media/File:Parallel_Postulate.svg) ([CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)), 
   created by [Alecmconroy](https://en.wikipedia.org/wiki/User:Alecmconroy) and [Qef](https://en.wikipedia.org/wiki/User:Qef) 
