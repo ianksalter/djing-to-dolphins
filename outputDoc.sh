@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # A utility that generates epub and pdf documents from
-# the set of files stored in the source stored in the src directory
+# the set of files stored in the book directory
 # Uses pandoc which can be installed on a mac using home brew (and cakebrew)
 # Note pdf generation also requires the full MacTex download which takes
 # forever.
@@ -9,9 +9,9 @@
 # Create target directory if it doesn't exist
 mkdir -p target
 
-# Concatenates the files in the src/markdown directory in alphabetic order 
-# The result is a temp file used for imput to the pandoc utility which generates the files
-cd src/
+# Concatenates the files in the book directory in alphabetic order
+# The result is a temp file used for input to the pandoc utility which generates the files
+cd book/
 ls *.* | xargs cat > ../target/temp.txt
 
 #Move to target directory
