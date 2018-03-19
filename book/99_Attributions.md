@@ -12,15 +12,15 @@ Please note however that, beyond fair use, to avoid other publishers making a pr
 
 The source for this work is available on [GitHub](https://github.com/ianksalter/DJing_to_Dolphins)
 
-## Chapter: Farewell ##
+## Farewell ##
 
 * **Chichester Canal:** Original image by J.M.W Turner and sourced from [Wikiart](https://www.wikiart.org/) as a Public Domain image. 
 
-## Chapter: Inverkip ##
+## Inverkip ##
 
 * **Saturday Night Clyde:** Original image by John Atkinson Grimshaw and sourced from [Wikiart](https://www.wikiart.org/) as a Public Domain image. 
 
-## Chapter: Chichester to Brighton ##
+## Chichester to Brighton ##
 
 * **Beach at Selsey Bill:** Original image by James McNeill Whistler and sourced from [Wikiart](https://www.wikiart.org/) as a Public Domain image.
 
@@ -35,6 +35,10 @@ The source for this work is available on [GitHub](https://github.com/ianksalter/
 ## Southern Rail to Brighton ##
 
 * **Arundel Castle:** Original image by J.M.W. Turner and sourced from [Wikiart](https://www.wikiart.org/) as a Public Domain image.
+
+## Brighton to Dartmouth ##
+
+* **Brighton:** Original image by James Webb and sourced from [Wikiart](https://www.wikiart.org/) as a Public Domain image.
 
 
 
