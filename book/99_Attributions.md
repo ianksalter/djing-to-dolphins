@@ -21,6 +21,10 @@ The source for this work is available on [GitHub](https://github.com/ianksalter/
 
 * **Saturday Night Clyde:** Original image by John Atkinson Grimshaw and sourced from [Wikiart](https://www.wikiart.org/) as a Public Domain image. 
 
+## Chapter: Chichester to Brighton ##
+
+* **Beach at Selsey Bill:** Original image by James McNeill Whistler and sourced from [Wikiart](https://www.wikiart.org/) as a Public Domain image.
+
 ## Chapter: Limits of Reason ##
 
 * **Parallel Postulate Graphically:**  Modified image from [Wikipedia](https://en.wikipedia.org/wiki/Parallel_postulate#/media/File:Parallel_Postulate.svg) ([CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)), 
