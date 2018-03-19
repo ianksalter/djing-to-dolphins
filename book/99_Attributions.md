@@ -54,11 +54,15 @@ The source for this work is available on [GitHub](https://github.com/ianksalter/
 
 ## Linksbohrer and Kitchen  ##
 
-* **Kitchen:** Original image by J.M.W. Turner and sourced from [Wikiart](https://www.wikiart.org/) as a Public Domain image.
+* **Kitchen:** Original image by Ernst Ludwig Kirchner  and sourced from [Wikiart](https://www.wikiart.org/) as a Public Domain image.
 
 ## Falmouth to Brest Part 1  ##
 
-* **Falmouth Harbour:** Original image by Ernst Ludwig Kirchner and sourced from [Wikiart](https://www.wikiart.org/) as a Public Domain image.
+* **Falmouth Harbour:** Original image by J.M.W. Turner and sourced from [Wikiart](https://www.wikiart.org/) as a Public Domain image.
+
+## Children  ##
+
+* **Children:** Original image by Pierre-Auguste Renoir and sourced from [Wikiart](https://www.wikiart.org/) as a Public Domain image.
 
 
 
