@@ -10,7 +10,7 @@ Please note however that, beyond fair use, to avoid other publishers making a pr
 
 ![](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
 
-The source for this work is available on [GitHub](https://github.com/ianksalter/DJing_to_Dolphins)
+The source for this work is available on [GitHub](https://github.com/ianksalter/DJing_to_Dolphins).
 
 ## Farewell ##
 
@@ -39,6 +39,10 @@ The source for this work is available on [GitHub](https://github.com/ianksalter/
 ## Brighton to Dartmouth ##
 
 * **Brighton:** Original image by James Webb and sourced from [Wikiart](https://www.wikiart.org/) as a Public Domain image.
+
+## Tears ##
+
+* **Train Smoke:** Original image by Edvard Munch and sourced from [Wikiart](https://www.wikiart.org/) as a Public Domain image.
 
 
 
