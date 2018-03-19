@@ -72,8 +72,12 @@ The source for this work is available on [GitHub](https://github.com/ianksalter/
 
 * **Sail** Original image by Charles Demuth and sourced from [Wikiart](https://www.wikiart.org/) as a Public Domain image.
 
+## Leaving Brest  ##
+
+* **Brest** Original image by Eugene Boudin and sourced from [Wikiart](https://www.wikiart.org/) as a Public Domain image.
 
 
+Brest, the Harbour (XIX cent.) Eugene Boudin
 
 ## Chapter: Limits of Reason ##
 
