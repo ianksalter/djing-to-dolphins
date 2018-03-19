@@ -12,7 +12,6 @@ Please note however that, beyond fair use, to avoid other publishers making a pr
 
 The source for this work is available on [GitHub](https://github.com/ianksalter/DJing_to_Dolphins)
 
-
 ## Chapter: Farewell ##
 
 * **Chichester Canal:** Original image by J.M.W Turner and sourced from [Wikiart](https://www.wikiart.org/) as a Public Domain image. 
@@ -31,7 +30,11 @@ The source for this work is available on [GitHub](https://github.com/ianksalter/
 
 ## Ghosts ##
 
-* **The Cat Boat:** Original image by Edward Hopper and sourced from [Wikiart](https://www.wikiart.org/) as a Public Domain(US).
+* **Black Cat:** Original image by Theophile Steinlen and sourced from [Wikiart](https://www.wikiart.org/) as a Public Domain image.
+
+## Southern Rail to Brighton ##
+
+* **Arundel Castle:** Original image by J.M.W. Turner and sourced from [Wikiart](https://www.wikiart.org/) as a Public Domain image.
 
 
 
