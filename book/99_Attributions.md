@@ -6,14 +6,20 @@ creators of these images are given below by chapter. Images created by the autho
 
 ![](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
 
-Please note however that the source text of this book is only licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](href="http://creativecommons.org/licenses/by-nc-sa/4.0/).
+Please note however that, beyond fair use, to avoid other publishers making a profit from the work without permission of the author, the text of the book is only licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](href="http://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 ![](https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png)
+
+The source for this work is available on [GitHub](https://github.com/ianksalter/DJing_to_Dolphins)
 
 
 ## Chapter: Farewell ##
 
 * **Chichester Canal:** Original image by J.M.W Turner and sourced from [Wikiart](https://www.wikiart.org/) as a Public Domain image. 
+
+## Chapter: Inverkip ##
+
+* **Saturday Night Clyde:** Original image by John Atkinson Grimshaw and sourced from [Wikiart](https://www.wikiart.org/) as a Public Domain image. 
 
 ## Chapter: Limits of Reason ##
 
