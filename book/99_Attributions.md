@@ -64,9 +64,13 @@ The source for this work is available on [GitHub](https://github.com/ianksalter/
 
 * **Children:** Original image by Pierre-Auguste Renoir and sourced from [Wikiart](https://www.wikiart.org/) as a Public Domain image.
 
-## Falmouth to Brest Part 1  ##
+## Falmouth to Brest Part 2  ##
 
 * **Brittany** Original image by Charles Cottet and sourced from [Wikiart](https://www.wikiart.org/) as a Public Domain image.
+
+## Brest  ##
+
+* **Sail** Original image by Charles Demuth and sourced from [Wikiart](https://www.wikiart.org/) as a Public Domain image.
 
 
 
