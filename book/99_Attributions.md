@@ -44,6 +44,10 @@ The source for this work is available on [GitHub](https://github.com/ianksalter/
 
 * **Train Smoke:** Original image by Edvard Munch and sourced from [Wikiart](https://www.wikiart.org/) as a Public Domain image.
 
+## Repairs and Racism (?) ##
+
+* **Yorkshire Trees:** Original image by Philip Wilson Steer and sourced from [Wikiart](https://www.wikiart.org/) as a Public Domain image.
+
 
 
 
