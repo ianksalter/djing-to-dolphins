@@ -29,6 +29,11 @@ The source for this work is available on [GitHub](https://github.com/ianksalter/
 
 * **In the Shade of the Pines:** Original image by Theo van Rysselberghe and sourced from [Wikiart](https://www.wikiart.org/) as a Public Domain image.
 
+## Ghosts ##
+
+* **The Cat Boat:** Original image by Edward Hopper and sourced from [Wikiart](https://www.wikiart.org/) as a Public Domain(US).
+
+
 
 
 ## Chapter: Limits of Reason ##

@@ -3,7 +3,7 @@
 
 ![*In the Shade of the Pines (study) (1905) Theo van Rysselberghe*](../images/InTheShadeOfThePines.jpg "In the Shade of the Pines")
 
-My friends are an awesome bunch in general. In particular they have been great in lending me cars or driving my stuff around and have made this whole boat thing possible. Of particular mention are Elize and Hannah, and Debbie, who have lent me their cars Dot and Louis (my name), but I have also received help from Ersin, Kai and Liam.
+My friends are an awesome bunch in general. In particular they have been great in lending me cars or driving my stuff around and have made this whole boat thing possible. Of particular mention are Elize and Hannah, and Debbie, who have lent me their cars; Dot and Louis (my name), but I have also received help from Ersin, Kai and Liam.
 
 The drive to and from my boat has involved the Blackwall Tunnel, M25, M23 and the A27, not the pleasantest of routes at the best of times. On the plus side between the M23 and A27 I get to drive on the A272, A283 and the B2139. The latter being a glorious road through the South Downs.
 
