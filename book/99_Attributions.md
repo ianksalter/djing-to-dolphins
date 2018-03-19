@@ -48,6 +48,10 @@ The source for this work is available on [GitHub](https://github.com/ianksalter/
 
 * **Yorkshire Trees:** Original image by Philip Wilson Steer and sourced from [Wikiart](https://www.wikiart.org/) as a Public Domain image.
 
+## Repairs and Racism (?) ##
+
+* **The River Dart:** Original image by Charles Martin Powell and sourced from [Wikiart](https://www.wikiart.org/) as a Public Domain image.
+
 
 
 
