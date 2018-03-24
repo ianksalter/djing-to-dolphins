@@ -9,9 +9,9 @@
 # Create target directory if it doesn't exist
 mkdir -p target
 
-# Concatenates the files in the book directory in alphabetic order
+# Concatenates the files in the blog directory in alphabetic order
 # The result is a temp file used for input to the pandoc utility which generates the files
-cd book/
+cd blog/
 ls *.* | xargs cat > ../target/temp.txt
 
 #Move to target directory
