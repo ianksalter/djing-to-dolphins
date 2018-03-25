@@ -76,20 +76,43 @@ The source for this work is available on GitHub at [https://github.com/ianksalte
 
 * **Brest** Original image by Eugene Boudin and sourced from [Wikiart](https://www.wikiart.org/) as a Public Domain image.
 
+## Fake News ##
 
-Brest, the Harbour (XIX cent.) Eugene Boudin
+* **News** Original image by Mikalojus Konstantinas Čiurlionis and sourced from [Wikiart](https://www.wikiart.org/) as a Public Domain image.
+
+## Bay of Biscay Day 2  ##
+
+* **Red Ocean Blue** Original image by Amadeo de Souza-Cardoso and sourced from [Wikiart](https://www.wikiart.org/) as a Public Domain image.
 
 ## Chapter: Limits of Reason ##
 
+* **Galileo** Original image by Peter Paul Rubens and sourced from [Wikiart](https://www.wikiart.org/) as a Public Domain image.
+
 * **Parallel Postulate Graphically:**  Modified image from [Wikipedia](https://en.wikipedia.org/wiki/Parallel_postulate#/media/File:Parallel_Postulate.svg) ([CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)), 
-  created by [Alecmconroy](https://en.wikipedia.org/wiki/User:Alecmconroy) and [Qef](https://en.wikipedia.org/wiki/User:Qef) 
+  created by [Alecmconroy](https://en.wikipedia.org/wiki/User:Alecmconroy) and [Qef](https://en.wikipedia.org/wiki/User:Qef). 
+  
+* **Euclids Five Postulates:**  Created by the author.
 
 * **Earth Spherical Geometry:**  Modified image from [Wikipedia](https://en.wikipedia.org/wiki/Non-Euclidean_geometry#/media/File:Triangles_(spherical_geometry).jpg) ([CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)), 
-  created by Lars H. Rohwedder, [Sarregouset](https://commons.wikimedia.org/wiki/User:Sarregouset)
+  created by Lars H. Rohwedder, [Sarregouset](https://commons.wikimedia.org/wiki/User:Sarregouset).
 
-* **1 Euclidean Geometry, 2 Elliptical Geometry, 3. Hyperbolic Geometry:**  Modified image from [Wikipedia](https://en.wikipedia.org/wiki/Parallel_postulate#/media/File:Euclidian_and_non_euclidian_geometry.png) ([CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)), created by [Søren Peo Pedersen](http://da.wikipedia.org/wiki/Bruger:Peo)
+* **1 Euclidean Geometry, 2 Elliptical Geometry, 3. Hyperbolic Geometry:**  Modified image from [Wikipedia](https://en.wikipedia.org/wiki/Parallel_postulate#/media/File:Euclidian_and_non_euclidian_geometry.png) ([CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)), created by [Søren Peo Pedersen](http://da.wikipedia.org/wiki/Bruger:Peo).
 
-* **Countable Rationals:**  Modified image from [Wikipedia](https://en.wikipedia.org/wiki/Parallel_postulate#/media/File:Euclidian_and_non_euclidian_geometry.png) ([CC BY-SA 3.0](https://en.wikipedia.org/wiki/Rational_number#/media/File:Diagonal_argument.svg)), created by [Cronholm144](https://commons.wikimedia.org/wiki/User:Cronholm144)
+* **Venn Diagram for Number Sets:**  Created by the author.
+
+* **Counting Integers:**  Created by the author.
+
+* **Countable Rationals:**  Modified image from [Wikipedia](https://en.wikipedia.org/wiki/Parallel_postulate#/media/File:Euclidian_and_non_euclidian_geometry.png) ([CC BY-SA 3.0](https://en.wikipedia.org/wiki/Rational_number#/media/File:Diagonal_argument.svg)), created by [Cronholm144](https://commons.wikimedia.org/wiki/User:Cronholm144).
+
+* **Counting Rationals:**  Created by the author.
+
+* **A Claimed Count of the Reals:**  Created by the author.
+
+* **The Uncountable Reals:**  Created by the author.
+
+## DJing to Dolphins  ##
+
+* **YOU ARE HERE** Original image by Amadeo de Souza-Cardoso and sourced from [Wikiart](https://www.wikiart.org/) as a Public Domain image.
   
 
 

@@ -1,19 +1,19 @@
 
 # The Limits of Reason (Sunday 6th August 2017) #
 
+![*Galileo Galilei (1630) Peter Paul Rubens*](../images/Galileo.jpg "Galileo")
+
 At 2 am I wake to take over from Maxime who is apologetic that she hasn’t followed her skipper’s instructions around the use of the electronic wind vane steering. This is a mode of the autopilot that keeps the boat on a set course in relation to the wind rather than the compass. She is worried that we are off course, but I explain that that is not a problem. I get her to help me jybe before she goes down for her sleep.
 
 I make myself comfortable on the doggy step and remember my missing proof from the night before. I doubt I will think of all of it in a single watch. Tonight I will focus on reason and mathematics.
 
 I suppose my story starts with [Euclid](https://en.wikipedia.org/wiki/Euclid) and that cussed geometry. In [The Elements](https://en.wikipedia.org/wiki/Euclid%27s_Elements), Euclid sets out a number of rules or axioms (he called them definitions, common notions and postulates). All but one of these rules are very simple and self evident. The fifth or [parallel postulate](https://en.wikipedia.org/wiki/Parallel_postulate) is not. It essentially states that two parallel lines will never meet.
 
-![**Parallel Postulate Graphically**](../images/ParallelPostulateGraphically.png "Parallel Postulate Graphically") 
+![*Parallel Postulate Graphically*](../images/ParallelPostulateGraphically.png "Parallel Postulate Graphically") 
 
-This postulate was so different (see the list below), that for two millennia mathematicians tried to prove that it could be derived from the other rules.
+![*Euclids 5 Postulates*](../images/Euclids5Postulates.png "Euclids Parallel Postulates") 
 
-![**Euclids 5 Postulates**](../images/Euclids5Postulates.png "Euclids Parallel Postulates") 
-
-This however seemed a small and insignificant mathematical problem. So that in the 16th century [Galileo Galilei](https://en.wikipedia.org/wiki/Galileo_Galilei) felt that:
+This postulate was so different (see the list above), that for two millennia mathematicians tried to prove that it could be derived from the other rules. This, however, seemed a small and insignificant mathematical problem. So that in the 16th century [Galileo Galilei](https://en.wikipedia.org/wiki/Galileo_Galilei) felt that:
 
 > *“Mathematics is the language in which God has written the universe.”*
 
@@ -25,7 +25,7 @@ Yet as the 19th century drew on, events would happen that would ultimately chall
 
 Riemann’s spherical geometry, a special case of elliptical geometry, can be seen as a model of our own planet, lines of longitude that are parallel at the equator meet at the poles and the angles of larger triangles do not add up to 180 degrees.
 
-![**Earth Spherical Geometry**](../images/EarthSphericalGeometry.png "Earth Spherical Geometry") 
+![*Earth Spherical Geometry*](../images/EarthSphericalGeometry.png "Earth Spherical Geometry") 
 
 As I stare down into the cabin from the doggie step and see our chart table, I muse that sailors could probably have told mathematicians all this, for on our charts we have always measured distance, using those iconic dividers, from the latitude scale on the side of charts, where one minute (a 60th of a degree) is always equal to one nautical mile. We never use the longitude scale at the bottom of charts, as the minutes get smaller the further north you go from the equator and disappear into nothing at the poles.
 
@@ -36,7 +36,7 @@ The advent of these new geometries raised concerns and led mathematicians to see
 
 Consistency is vital, because, in a logical system, once one can prove a contradiction one can prove anything, and therefore, the rules become useless as description of anything. Euclid’s rules without the parallel postulate, are definitely not complete as they admit different interpretations as illustrated in the diagram below. One cannot prove or disprove that the angles of a triangle always add up to 180 degrees as it is true in 1 but false in 2 & 3.
 
-![**1 Euclidean Geometry, 2 Elliptical Geometry, 3. Hyperbolic Geometry**](../images/ThreeGeometries.png "Three Geometries") 
+![*1 Euclidean Geometry, 2 Elliptical Geometry, 3. Hyperbolic Geometry*](../images/ThreeGeometries.png "Three Geometries") 
 
 As the earlier statement of Galileo indicates, mathematicians had always assumed the completeness of mathematics, that mathematics was discovering the language of the universe, a view that was to become known as the mathematical philosophy of [Platonism](https://en.wikipedia.org/wiki/Philosophy_of_mathematics#Platonism). With the advent of non-euclidean geometries, the issue of completeness, and even more importantly consistency, began to call Platonism into question.
 
@@ -51,18 +51,11 @@ Sailing excitement over I settle down again on the doggie step. I’m soon in th
 
 We can visualise this situation with a picture called a [Venn Diagram](https://en.wikipedia.org/wiki/Venn_diagram):
 
-![**Venn Diagram for Number Sets**](../images/NumbersVennDiagram.png "Numbers Venn Diagram")
+![*Venn Diagram for Number Sets*](../images/NumbersVennDiagram.png "Numbers Venn Diagram")
 
 As part of his work on sets, Cantor demonstrates that, while it is possible to count all the Integers and count all the Rationals, it is not possible to count all the Reals. In order to do this he had to define what it was to count in an infinite sense. The following table illustrates how one might count the integers according to Cantor:
 
- Natural | Integer
-:-------:|:--------:
-    1    |        0
-    2    |        1
-    3    |       -1 
-    4    |        2 
-    5    |       -2 
-....................|....................
+![*Counting Integers*](../images/CountingIntegers.png "Integer Count")
 
 Counting, in the infinite sense Cantor defined as finding a rule, or what mathematicians call a function, that assigns to each natural number an element of the set being counted, so that all elements are assigned to a number. It’s not important, but if you are interested, the function for the above counting is:
 
@@ -72,17 +65,11 @@ Counting, in the infinite sense Cantor defined as finding a rule, or what mathem
 
 To prove that rational numbers are countable Cantor constructed a table all fractions:
 
-![**Countable Rationals**](../images/CountableRationals.png "Countable Rationals")
+![*Countable Rationals*](../images/CountableRationals.png "Countable Rationals")
 
 By zigzagging across the table diagonally it is possible to assign each natural number a rational number as illustrated in the following table:
 
-Natural | Rational
-:-------:|:--------:
-1 | 1/1 = 1
-2 | 2/1 = 2
-3 | 1/2
-4 | 1/3
-....................|....................
+![*Counting Rationals*](../images/CountingRationals.png "Rational Count")
 
 Though some fractions will be counted more than once, all fractions and whole numbers and hence all of the Rationals will be counted.
 
@@ -90,24 +77,11 @@ To prove that you can’t count the Reals, he developed a technique that has bec
 
 First assume that we can count all the points on a line say between 0 and 1. Such a count might look like the following table:
 
-Natural | Real
-:-------:|:---------
-1 | 0.1000000000000...
-2 | 0.1100000000000...
-3 | 0.2000000000000...
-4 | 0.2900000000000...
-    ....................|....................
+![*A Claimed Count of the Reals*](../images/ClaimedCountOfTheReals.png "Claimed Real Count")
 
 Now we try and make a new decimal number that is not part of the count. This we can do this simply by ensuring that for the first number counted our new number is different at the first decimal place, for the second number counted we are different at the second decimal place and so on. Because our new decimal number is different from every number in the count, the count can’t count all the decimal numbers and we have a contradiction.
 
-Natural | Real
-:-------:|:---------
-1 | 0.1000000000000...
-2 | 0.1100000000000...
-3 | 0.2000000000000...
-4 | 0.2900000000000...
-....................|....................
-New Number | 0.22191111111111...
+![*The Uncountable Reals*](../images/UncountableReals.png "Uncountable Reals")
 
 Since we placed no restriction on the count we chose in the first place (the numbers in the table were just for illustration) there can be no count of all the points on a line between 0 and 1. Since the points on a line between 0 and 1 is a subset of all the real numbers we can’t count the Reals. A startling consequence of this proof is that, in Cantor’s world, there is more than one infinity, in fact for him there are infinite number of infinites called the [Transfinite Numbers](https://en.wikipedia.org/wiki/Transfinite_number).
 
@@ -119,7 +93,7 @@ Kronecker’s attacks were deeply personal calling Cantor a “scientific charla
 
 > *“From this paradise that Cantor with us unfolded, we hold our breath in awe; knowing we shall not be expelled.”*
 
-By the start of the twentieth century, the problems of consistency and completeness of mathematics were coming to the fore. Attempts by [Gottlob Frege](https://en.wikipedia.org/wiki/Gottlob_Frege) to provide a formal foundation for mathematics using logic and set theory would be shown to be [inconsistent by Bertrand Russell.](https://en.wikipedia.org/wiki/Russell%27s_paradox) At the [International Congress of Mathematicians](https://en.wikipedia.org/wiki/International_Congress_of_Mathematicians) in Paris in 1900, Hilbert posed [twenty three unsolved problems](https://en.wikipedia.org/wiki/Hilbert%27s_problems). The second of these was:
+By the start of the twentieth century, the problems of consistency and completeness of mathematics were coming to the fore. Attempts by [Gottlob Frege](https://en.wikipedia.org/wiki/Gottlob_Frege) to provide a formal foundation for mathematics using logic and set theory would be shown to be inconsistent [when Bertrand Russell found a paradox](https://en.wikipedia.org/wiki/Russell%27s_paradox) At the dawn of the 20th century Hilbert posed [twenty three unsolved problems](https://en.wikipedia.org/wiki/Hilbert%27s_problems) at the [International Congress of Mathematicians](https://en.wikipedia.org/wiki/International_Congress_of_Mathematicians) in Paris. The second of these was:
 
 > *Prove the axioms of arithmetic are consistent.*
 
@@ -127,11 +101,11 @@ As the new century drew on things were looking up. In the 1920’s [Ernst Zermel
 
 > *No consistent axiomatic system which includes arithmetic can prove its own consistency.*
 
-Since Zermelo-Fraenkel set theory includes arithmetic, this means that the very foundations of mathematics, as used by most mathematics, cannot prove its own consistency. There are many ways to interpret this result, but for me, it puts pay to the idea that the universe is written in the language of mathematics. Instead mathematics, all of it, including Kronecker’s integers, are a human construct, they are stories.
+Since Zermelo-Fraenkel set theory includes arithmetic, this means that the very foundations of mathematics, as used by most mathematicians, cannot prove its own consistency. There are many ways to interpret this result, but for me, it puts pay to the idea that the universe is written in the language of mathematics. Instead mathematics, all of it, including Kronecker’s integers, are a human construct, they are stories.
 
 As Max wakes to take her watch, I remember a quote from [Reuben Hersh](https://en.wikipedia.org/wiki/Reuben_Hersh), [who observes](https://books.google.pt/books?id=R-qgdx2A5b0C&pg=PA39&lpg=PA39&dq=Mathematicians+are+platonists+on+the+weekdays+and+formalists+on+sundays&source=bl&ots=NlrVRHvx5t&sig=R-jlRKAIQ2RFuHfbxXKbS5lIFkk&hl=en&sa=X&ved=0ahUKEwiTg_SS7eHVAhVCLcAKHc4gD0MQ6AEIKjAB#v=onepage&q=Mathematicians%20are%20platonists%20on%20the%20weekdays%20and%20formalists%20on%20sundays&f=false), that many a mathematician:
 
 > *"...is a Platonist on weekdays, a formalist on weekends. On weekdays, when doing mathematics, he’s a Platonist, convinced he is dealing with an objective reality whose properties he’s trying to determine. On weekends, if challenged to give a philosophical account of this reality, it’s easier to pretend he doesn’t believe in it. He plays formalist and pretends mathematics is a meaningless game."*
 
-I don’t go to bed straight away, instead I doze in the cockpit ready to help Max with the next jybe. As I do, I reflect on the Hersh quote and think how different I am from one of those mathematicians. The vicious attacks that Cantor suffered can only come about when one is making claims about absolute truth, for his proofs, when looked at as stories, rather than some claim to reality, I find truly beautiful. I know when I do maths myself that I’m writing a story, creating some fake news as you were, in doing so I aspire to the beauty of Cantor’s work. While I think all this, Max manages the jybe all by herself and, exhausted from my reflections, I head down to the cabin for more sleep.
+I don’t go to bed straight away, instead I doze in the cockpit ready to help Max with the next jybe. As I do, I reflect on the Hersh quote and think how different I am from one of those mathematicians. The vicious attacks that Cantor suffered can only come about when one is making some claim about absolute truth. I find that his proofs, when looked at as stories, rather than some claim to reality, are truly beautiful. I know when I do maths I am writing a story, creating some fake news as you were In doing so I aspire to the beauty of Cantor’s work. While I think all this, Max manages the jybe all by herself and, exhausted from my reflections, I head down to the cabin for more sleep.
 
