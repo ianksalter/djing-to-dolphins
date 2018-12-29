@@ -1,0 +1,14 @@
+book_filename: "djying-to-dolphins"
+language:
+  ui:
+    chapter_name: "Chapter "
+delete_merged_file: true
+
+new_session: yes
+
+rmd_files: [
+  "index.Rmd",
+  "001_FrontPiece.Rmd",
+
+  #"blog/01_Farewell20170110.Rmd",,
+]
