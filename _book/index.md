@@ -21,11 +21,9 @@ To Natalie - for telling me to keep writing.
 
 ## Acknowledgements {-}
 
-![*Chichester Canal (1828) J.M.W. Turner*](images/ChichesterCanal.jpg "Chichester Canal")
-
 For their love, inspiration and support I thank my children Jessica, Maxime, Tegan and especially Samuel, who was still in the womb when I wrote my last acknowledgment. Thanks also to all the people in my life; the close and not so close. You are too numerous to mention individually, but know that you are an amazing bunch, who constantly surprise and delight me. I owe an enormous debt of gratitude to all the writers, mathematicians, musicians, scientists, painters, film makers, philosophers, sculptors and other artists that have touched my heart. I can only aspire to touching others in the same way. 
 
-At a more practical level I must thank the technologists who made this work possible. The ebook was generated from a git repository of Rmarkdown files using R and RStudio. So thanks must go to all the open source developers that made these tools possible. I must also thank the creators of the images in the book many of whom have been kind enough to share their work under a creative commons license. Details of attributions are given at the end of the book. 
+At a more practical level I must thank the technologists who made this work possible. The ebook was generated from a git repository of RMarkdown files using R and RStudio. So thanks must go to all the open source developers that made these tools possible. I must also thank the creators of the images in the book many of whom have been kind enough to share their work under a creative commons license. Details of attributions are given at the end of the book. 
 
 Finally I must thank Debbie Atkinson for her editing work. She excels at the standard editor stuff, picking up my frequent misuse of commas and apostrophes and letting me know, that while one's wound might *heal*, a boat always *heels*. More than this, as the person that taught me marine navigation and got me into the whole sailboat with a cabin thing in the first place, she is able to point out that I really mean *north east* when I have written *north west*. I am so grateful for all of it. I hope I get to repay all the favours soon. Needless to say, any errors that remain are entirely down to me.
 
@@ -38,7 +36,7 @@ As far as references are concerned, I could have created footnotes and indexes. 
 
 I hope you enjoy these tales.
 
-Ian K Salter (March 2018)
+Ian K Salter (January 2019)
 
 
 <!-- If you need PDF output, uncomment bookdown::pdf_book above in YAML. You will need a LaTeX installation, e.g., https://yihui.name/tinytex/ -->

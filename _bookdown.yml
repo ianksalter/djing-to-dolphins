@@ -6,9 +6,10 @@ delete_merged_file: true
 
 new_session: yes
 
-rmd_files: [
-  "index.Rmd",
-  "001_FrontPiece.Rmd",
+#rmd_Files: [
+#  "index.Rmd",
+#  "01_Farewell20170110.Rmd",
+#  "02_GlasgowToInverkip20170301.Rmd",
 
   #"blog/01_Farewell20170110.Rmd",,
-]
+#]
