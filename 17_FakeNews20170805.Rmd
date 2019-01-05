@@ -1,5 +1,6 @@
 
-# Fake News (Saturday 5th August 2017)
+# Fake News
+Saturday 5th August 2017
 
 ![*News (1905) Mikalojus Konstantinas Čiurlionis*](images/News.jpg "News")
 
