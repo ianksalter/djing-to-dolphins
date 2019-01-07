@@ -15,7 +15,11 @@ description: "A book about my adventeures with my boat (also my home) Kite in 20
 
 # Frontpiece {-}
 
-To Natalie - for once upon a time, on the banks of the Thames, telling me to keep writing. I'm gald I did I hope you are too.
+In 2017 the author and his boat Kite fled Brexit Brittain. These tales document a journey searching for a new home. But this is not just a home in the physical sense but also a home for ideas in the aftermath of Brexit, Trump and Fake News.
+
+---
+
+To Natalie - for once upon a time, on the banks of the Thames, telling me to keep writing. I'm glad I did. I hope you are too.
 
 
 ## Preface {-}
