@@ -4,7 +4,7 @@ Monday 21st August 2017
 
 ![*Praia da Figueira da Foz (1921) António Carneiro*](images/PraiaDaFigueiraDaFoz.jpg)
 
-I leave Figueira da Foz at dawn, with the sun rising over the eastern end of the marina., feeling more comfortable single handing, especially as I haven’t made any mistakes, I fall into a reverie, and as is so often the case in these situations, my thoughts are about mathematics. I reflect on an idea I have been working on, an idea that I have taken to calling: A Mathematics of Consent. This uses a graphical approach to expressing what an individual:
+I leave Figueira da Foz at dawn, with the sun rising over the eastern end of the marina. Feeling more comfortable single handing, especially as I haven’t made any mistakes, I fall into a reverie. As is so often the case in these situations, my thoughts are about mathematics. I reflect on an idea I have been working on, an idea that I have taken to calling: A Mathematics of Consent. This uses a graphical approach to expressing what an individual
 
 * Wants
 * Consents To
@@ -12,31 +12,27 @@ I leave Figueira da Foz at dawn, with the sun rising over the eastern end of the
 
 For example imagine two people, let’s call them [Hypatia](https://en.wikipedia.org/wiki/Hypatia) and [Alan](https://en.wikipedia.org/wiki/Alan_Turing), were discussing where to go out for dinner tonight. Hypatia might have the following preferences:
 
-![**Hypatia's Preferences**](../images/HypatiasPreferences.png "Hypatia's Preferences") 
+![**Hypatia's Preferences**](images/HypatiasPreferences.png) 
 
 In other words Hypatia wants to eat Chinese and Sushi and but has no preference between the two. Hypatia also prefers Chinese and Sushi to Turkish to which she only consents. Hypatia prefers Turkish to Indian, which she doesn’t consent to at all.
 
 We can see a similar set of preferences for Alan:
 
-![**Alan's Preferences**](../images/AlansPreferences.png "Alan's Preferences") 
+![**Alan's Preferences**](images/AlansPreferences.png) 
 
 In other words Alan wants to eat Sushi and Indian and he would prefer Sushi to Indian. Alan prefers Indian to Turkish and that he only consents to Turkish. Alan prefers Turkish to Chinese to which he doesn’t consent.
 
 Now imagine the following conversation:
 
-> Alan: *Fancy going out for dinner tonight?*
-
-> Hypatia: *Sure. Chinese?*
-
-> Alan: *No. What about Indian?*
-
-> Hypatia: *Oh no!* (remembering that she has been for Turkish with Alan) *How about Turkish?*
-
-> Alan: *Turkish it is then.*
+> Alan: *Fancy going out for dinner tonight?*  
+> Hypatia: *Sure. Chinese?*  
+> Alan: *No. What about Indian?*  
+> Hypatia: *Oh no!* (remembering that she has been for Turkish with Alan) *How about Turkish?*  
+> Alan: *Turkish it is then.*  
 
 I guess that, even in simple situations like going out for dinner, most people have had conversations like this, where in trying to please the other person we have come up with a sub-optimal compromise. A Mathematics of Consent is a tool for avoiding such compromises. It allows us to add, or more accurately intersect, two or more people’s desires to come up with their joint desires. In this case the following diagram:
 
-![**Hypatia's And Alan's Preferences**](../images/HypatiaAndAlansPreferences.png "Hypatia's And Alan's Preferences") 
+![**Hypatia's And Alan's Preferences**](images/HypatiaAndAlansPreferences.png) 
 
 Illustrating that although both Hypatia and Alan consent to going for Turkish, Sushi was a better outcome as it was something they both wanted.
 
@@ -44,9 +40,9 @@ The above example is relatively simple. When looking at preferences of multiple 
 
 > **The Say What You Want Theorem:** *When engaging in a conversation about options for the future, always state your preferred options first, otherwise you may end up with a solution that could be been improved upon.*
 
-I look up from my thoughts and check the time. It’s mid morning I should really ring the marina at Peniche to book a berth for the night. It takes a few attempts to get through and, once I do, the news is not good. The marina are not sure that there will be availability and suggest I ring back about 2 in the afternoon. This is worrying but, motoring along, without much to do, except ensure I avoid other shipping, I soon slip back into my reverie.
+I look up from my thoughts and check the time. It’s mid morning so I should really ring the marina at Peniche to book a berth for the night. It takes a few attempts to get through and, once I do, the news is not good. The marina are not sure that there will be availability and suggest I ring back about 2 in the afternoon. This is worrying but motoring along, without much to do, except ensure I avoid other shipping, I soon slip back into my reverie.
 
-A Mathematics of Consent is a tool enables individuals to:
+A Mathematics of Consent is a tool that enables individuals to:
 
 * **Define their desires without artificial rankings.** The very act of expressing desires in this way has  provided me with surprising clarity about what I actually do want and also where my boundaries lie.
 * **Combine desires to see options for collaboration,** whether that is what food to eat tonight or discussing how to proceed with a relationship into the distant future.
