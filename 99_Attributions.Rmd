@@ -1,8 +1,7 @@
 
 # Attributions and Licenses #
 
-Some of the images in this work have built upon the work of others. The sources and 
-creators of these images are given below by chapter. Images created by the author are also listed. The latter without exception are licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](href="http://creativecommons.org/licenses/by-sa/4.0/").
+Some of the images in this work have built upon the work of others. The sources and creators of these images are given below by chapter. Images created by the author are also listed. The latter without exception are licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](href="http://creativecommons.org/licenses/by-sa/4.0/").
 
 ![](https://i.creativecommons.org/l/by-sa/4.0/88x31.png)
 

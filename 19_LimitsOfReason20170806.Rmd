@@ -56,7 +56,13 @@ We can visualise this situation with a picture called a [Venn Diagram](https://e
 
 As part of his work on sets, Cantor demonstrates that, while it is possible to count all the Integers and count all the Rationals, it is not possible to count all the Reals. In order to do this he had to define what it was to count in an infinite sense. The following table illustrates how one might count the integers according to Cantor:
 
-![*Counting Integers*](images/CountingIntegers.png "Integer Count")
+```{r echo = FALSE, results ='asis'}
+library(knitr)
+Natural <- c(1,2,3,4,5,"...")
+Integer <- c(0,1,-1,2,-2,"...")
+CountingIntegers <- data.frame(Natural,Integer)
+kable(CountingIntegers,caption="Counting Integers")
+```
 
 Counting, in the infinite sense Cantor defined as finding a rule, or what mathematicians call a function, that assigns to each natural number an element of the set being counted, so that all elements are assigned to a number. It’s not important, but if you are interested, the function for the above counting is:
 
@@ -70,7 +76,13 @@ To prove that rational numbers are countable Cantor constructed a table all frac
 
 By zigzagging across the table diagonally it is possible to assign each natural number a rational number as illustrated in the following table:
 
-![*Counting Rationals*](images/CountingRationals.png "Rational Count")
+```{r echo = FALSE, results ='asis'}
+library(knitr)
+Natural <- c(1,2,3,4,"...")
+Rational <- c("1/1 = 1","2/1 = 2","1/2","1/3","...")
+CountingRationals <- data.frame(Natural,Rational)
+kable(CountingRationals,caption="Counting Rationals")
+```
 
 Though some fractions will be counted more than once, all fractions and whole numbers and hence all of the Rationals will be counted.
 
@@ -78,11 +90,32 @@ To prove that you can’t count the Reals, he developed a technique that has bec
 
 First assume that we can count all the points on a line say between 0 and 1. Such a count might look like the following table:
 
-![*A Claimed Count of the Reals*](images/ClaimedCountOfTheReals.png "Claimed Real Count")
+```{r echo = FALSE, results ='asis'}
+library(knitr)
+Natural <- c(1,2,3,4,"...")
+Real <- c("0.10000000000000000...",
+              "0.11000000000000000...",
+              "0.11100000000000000...",
+              "0.11110000000000000...",
+              "...")
+ClaimedRealCount <- data.frame(Natural,Real)
+kable(ClaimedRealCount,caption="A Claimed Count of the Reals")
+```
 
 Now we try and make a new decimal number that is not part of the count. This we can do this simply by ensuring that for the first number counted our new number is different at the first decimal place, for the second number counted we are different at the second decimal place and so on. Because our new decimal number is different from every number in the count, the count can’t count all the decimal numbers and we have a contradiction.
 
-![*The Uncountable Reals*](images/UncountableReals.png "Uncountable Reals")
+```{r echo = FALSE, results ='asis'}
+library(knitr)
+Natural <- c(1,2,3,4,"...","New Number")
+Real <- c("0.10000000000000000...",
+              "0.11000000000000000...",
+              "0.11100000000000000...",
+              "0.11110000000000000...",
+              "...",
+              "0.22221111111111111...")
+TheUncountableReals <- data.frame(Natural,Real)
+kable(TheUncountableReals,caption="The Uncountable Reals")
+```
 
 Since we placed no restriction on the count we chose in the first place (the numbers in the table were just for illustration) there can be no count of all the points on a line between 0 and 1. Since the points on a line between 0 and 1 is a subset of all the real numbers we can’t count the Reals. A startling consequence of this proof is that, in Cantor’s world, there is more than one infinity, in fact for him there are infinite number of infinites called the [Transfinite Numbers](https://en.wikipedia.org/wiki/Transfinite_number).
 
@@ -108,5 +141,5 @@ As Max wakes to take her watch, I remember a quote from [Reuben Hersh](https://e
 
 > *"...is a Platonist on weekdays, a formalist on weekends. On weekdays, when doing mathematics, he’s a Platonist, convinced he is dealing with an objective reality whose properties he’s trying to determine. On weekends, if challenged to give a philosophical account of this reality, it’s easier to pretend he doesn’t believe in it. He plays formalist and pretends mathematics is a meaningless game."*
 
-I don’t go to bed straight away, instead I doze in the cockpit ready to help Max with the next jybe. As I do, I reflect on the Hersh quote and think how different I am from one of those mathematicians. The vicious attacks that Cantor suffered can only come about when one is making some claim about absolute truth. I find that his proofs, when looked at as stories, rather than some claim to reality, are truly beautiful. I know when I do maths I am writing a story, creating some fake news as you were In doing so I aspire to the beauty of Cantor’s work. While I think all this, Max manages the jybe all by herself and, exhausted from my reflections, I head down to the cabin for more sleep.
+I don’t go to bed straight away, instead I doze in the cockpit ready to help Max with the next jybe. As I do, I reflect on the Hersh quote and think how different I am from one of those mathematicians. The vicious attacks that Cantor suffered can only come about when one is making some claim about absolute truth. I find that his proofs, when looked at as stories, rather than some claim to reality, are truly beautiful. I know when I do maths I am writing a story, creating some fake news as you were. In doing so I aspire to the beauty of Cantor’s work. While I think all this, Max manages the jybe all by herself and, exhausted from my reflections, I head down to the cabin for more sleep.
 
