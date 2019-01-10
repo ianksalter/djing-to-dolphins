@@ -10,12 +10,12 @@ biblio-style: apalike
 link-citations: yes
 url: 'https\://bookdown.org/djing-to-dolphins/'
 github-repo: ianksalter/djing-to-dolphins
-description: "The 2017 tales of a sailing voyage away from Brexit Britain."
+description: "The 2017 tales of a voyage sailing away from Brexit Britain."
 ---
 
 # Frontpiece {-}
 
-The 2017 tales of a sailing voyage away from Brexit Britain.  
+The tales of a voyage sailing away from Brexit Britain.  
   
   
 
@@ -28,7 +28,7 @@ To Natalie - for once upon a time, on the banks of the Thames, encouraging me to
 
 
 ![](images/by-nc-sa4-0.png)
-[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](href=\"http://creativecommons.org/licenses/by-nc-sa/4.0/\").
+[Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
 
 © Ian K Salter 2017, 2018, 2019
 
