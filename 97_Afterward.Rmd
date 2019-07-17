@@ -1,0 +1,16 @@
+---
+title: "Afterword"
+author: "Ian Salter"
+date: "7/17/2019"
+output: html_document
+---
+
+# Afterword
+
+This work started life as a series of blog posts written in 2017 when I decided to start journeying. When collecting such work together the question arises as to how much change one should make. I have opted to keep the original works much as they are. I have made only small edits to correct grammar, typos and, occasionally, to improve clarity. 
+
+As far as references are concerned, I could have created footnotes and indexes. Instead, as this edition of these stories is only meant for electronic publication, I have kept all as web links. When reading on phones and tablets the links should work fine. In any case, the source chapters can be easily accesed online at the books git hub repository: [https://github.com/ianksalter/djing_to_dolphins](https://github.com/ianksalter/djing_to_dolphins). A place where the reader may also suggest amendments.
+
+I hope you have enjoyed these tales.
+
+Ian K Salter (January 2019, July 2019)
