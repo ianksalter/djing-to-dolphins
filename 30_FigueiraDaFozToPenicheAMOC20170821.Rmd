@@ -38,7 +38,7 @@ Illustrating that although both Hypatia and Alan consent to going for Turkish, S
 
 The above example is relatively simple. When looking at preferences of multiple people, expressed in many graphs, with dependencies between the graphs, constructing this picture is not so easy. However, even at this stage a simple theorem starts to emerge:
 
-> **The Say What You Want Theorem:** *When engaging in a conversation about options for the future, always state your preferred options first, otherwise you may end up with a solution that could be been improved upon.*
+> **The Say What You Want Theorem:** *When engaging in a conversation about options for the future, always state your preferred options first, otherwise you may end up with a solution that could be improved upon.*
 
 I look up from my thoughts and check the time. It’s mid morning so I should really ring the marina at Peniche to book a berth for the night. It takes a few attempts to get through and, once I do, the news is not good. The marina are not sure that there will be availability and suggest I ring back about 2 in the afternoon. This is worrying but motoring along, without much to do, except ensure I avoid other shipping, I soon slip back into my reverie.
 
